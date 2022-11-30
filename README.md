@@ -12,7 +12,7 @@ This will allow you to edit HTML easily with help of TinyMCE and a lot of widget
 
 Install all required modules into ```node_modules``` by running the command:
 
-    npm ci
+    npm i
 
 Now to run it type in console:     
     

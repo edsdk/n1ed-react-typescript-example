@@ -11,7 +11,7 @@ class App extends React.Component {
 
   render() {
     return <N1ED
-        apiKey="REACDFLT"
+        apiKey="N1ED24RR"
         initialValue="<p>N1ED react demo</p>"
         onEditorChange={this.handleEditorChange}
 
